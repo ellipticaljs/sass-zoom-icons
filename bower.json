@@ -2,7 +2,7 @@
   "name": "sass-zoom-icons",
   "description": "Zoom icon font",
   "main": "dist/zoom.css",
-  "version":"1.0.4",
+  "version":"1.0.5",
   "authors": [
     "S. Francis"
   ],
